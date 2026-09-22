@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Advanced Web Technologies & System Design**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Frontend Development, React, Java, C++**.
-- 📫 How to reach me: **[LinkedIn](#) | [Email](#)** *(Update these links!)*
+- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/raunak-biswas-622817420/) | [Discord](https://discord.com/channels/@me)**
 
 <br/>
 
@@ -28,11 +28,8 @@
 
 <div>
   <p align="left">
-    <!-- Replace '#' with your actual links -->
-    <a href="#" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
-    <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=twitter" alt="Twitter" height="30" width="40" /></a>
-    <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" /></a>
-    <a href="#" target="blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/raunak-biswas-622817420/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
+    <a href="https://discord.com/channels/@me" target="blank"><img src="https://skillicons.dev/icons?i=discord" alt="Discord" height="30" width="40" /></a>
   </p>
 </div>
 
