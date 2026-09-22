@@ -57,12 +57,14 @@
 <br/>
 
 <!--- uncommon aesthetics addition --->
+<!-- TEMPORARILY DISABLED: The GitHub Profile Trophy API is currently down (402 Payment Required). Uncomment when it's back up!
 ## 🏆 <img src="https://media3.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="35"><b> GITHUB TROPHIES:</b>
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Raunak-1607&theme=dracula&no-frame=true&no-bg=true&margin-w=15" alt="Raunak-1607 Trophies" />
   </a>
 </p>
+-->
 
 <br/>
 
@@ -70,6 +72,7 @@
 ## <img src="https://media1.giphy.com/media/TJP7EH5i1fB2rKeWbf/giphy.webp" width="30"><b> GITHUB STATISTICS:</b>
 
 ### 🐍 GitHub Contributions Snake:
+<!-- The snake image will appear broken until your GitHub Action runs successfully. See my chat message for how to fix it! -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Raunak-1607/Raunak-1607/output/github-contribution-grid-snake-dark.svg">
@@ -78,6 +81,7 @@
   </picture>
 </p>
 
+<!-- TEMPORARILY DISABLED: The github-readme-stats public API is currently down due to heavy traffic (503 error). Uncomment later!
 ### 📊 GitHub Stats & Top Languages:
 <p align="center">
   <a href="https://github.com/Raunak-1607">
@@ -87,6 +91,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raunak-1607&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" />
   </a>
 </p>
+-->
 
 ### 🔥 Streak Stats:
 <p align="center">
