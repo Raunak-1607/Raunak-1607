@@ -19,7 +19,7 @@
 - 🌱 I’m currently learning **Advanced Web Technologies & System Design**.
 - 👯 I’m looking to collaborate on **Open Source Projects**.
 - 💬 Ask me about **Frontend Development, React, Java, C++**.
-- 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/raunak-biswas-622817420/) | Discord: `raunakbiswas`**
+- 📫 How to reach me: **[Email](mailto:raunakbiswas302@gmail.com) | [LinkedIn](https://www.linkedin.com/in/raunak-biswas-622817420/) | Discord: `raunakbiswas`**
 
 <br/>
 
@@ -28,6 +28,7 @@
 
 <div>
   <p align="left">
+    <a href="mailto:raunakbiswas302@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40" /></a>
     <a href="https://www.linkedin.com/in/raunak-biswas-622817420/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="30" width="40" /></a>
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord: raunakbiswas" title="Discord: raunakbiswas" height="30" width="40" /> <code>raunakbiswas</code>
   </p>
